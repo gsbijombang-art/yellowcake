@@ -1,16 +1,16 @@
 ---
-template: ContactPage
+template: Halaman Informasi
 slug: contact
-title: Contact Page
+title: Halaman Informasi
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
 subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+address: 'Jl KH Manshur No 10 Paculgowang'
+phone: +62 857-5549-9997
+email: gsbijombang@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: '-7.5980942'
+    lng: '112.2491418'
+    mapLink: 'https://maps.app.goo.gl/Kbbdh7bndTcP3nMk8'
 meta:
   description: This is a meta description.
   title: Contact Page
